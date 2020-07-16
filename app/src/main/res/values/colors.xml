@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="letralaranja">#FA6F44</color>
+    <color name="letracinza">#B4A7A2</color>
+    <color name="background">#333333</color>
+    <color name="fundodrawer">#3B2F2D</color>
+    <color name="backgroundlaranja">#6D1C01</color>
+    <color name="grey">#B7BCC2</color>
+    <color name="Link">#0039e6</color>
+</resources>
